@@ -1,0 +1,26 @@
+[
+    {
+         "quantidadeVP": "475",
+         "preco":"16.90"
+    },
+    {
+         "quantidadeVP":"1200",	
+         "preco":"39.90"
+    },
+    {
+         "quantidadeVP":"2300",	
+         "preco":"74.90"
+    },
+    {
+         "quantidadeVP":"4400",	
+         "preco":"139.90"
+    },
+    {
+         "quantidadeVP":"5500",	
+         "preco":"169.90"
+    },
+    {
+         "quantidadeVP":"11500",
+         "preco":"349.90"
+    }
+ ]
